@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Semana08Divisas</string>
+    <string name="convertText">Intorduce la cantidad a convertir</string>
+    <string name="btnConvert">Convertir</string>
+</resources>
